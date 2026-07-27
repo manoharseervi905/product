@@ -82,7 +82,7 @@ background-size: cover;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #fff;
+    background: #fff9f5 ;
 }
 .product div{
      font-size: 32px;
@@ -103,3 +103,33 @@ background-size: cover;
 .right a:hover{
     text-decoration: underline;
 }
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fff9f5 ;
+    flex-wrap: wrap;
+}
+.box{
+    height: 400px;
+   
+    width: 30%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+.box-img{
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.6rem;
+}
+.box-contant{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.box-contant p{
+    color: #00505f;
+    font-weight: 300;
+}
+
