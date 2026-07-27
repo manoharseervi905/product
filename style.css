@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+/* Navbar */
+.navbar{
+    height: 96px;
+    background-color: #fff9f5;
+}
+.logo{
+
+}
+.name{
+    font-family: "yesewa-one";
+}
