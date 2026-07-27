@@ -49,4 +49,24 @@ background-size: cover;
 .bar{
     height: 44px;
     background-color:#fff9f5 ;
+    border: 0.8px solid  rgba(0, 0, 0, 0.08);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* font-size: 18px; */
+   
+   
+}
+.bar-feature{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+}
+.bar-select{
+    border: none;
+     background-color: #fff9f5 ;
+     font-size: 16px;
+    font-weight: 700;
+
 }
