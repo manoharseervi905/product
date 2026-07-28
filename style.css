@@ -164,3 +164,27 @@
     font-size: 32px;
     font-weight: 700;
 }
+
+.coll-product{
+    display: flex;
+    justify-content: space-evenly;
+    /* font-size: 20px; */
+    background-color: #F2E5D9;
+    height: 161px;
+    align-items: center;
+}
+.coll-product i{
+    height: 90px;
+    width: 90px;
+    font-size: 55px;
+   
+}
+.payment{
+    font-size: 18px;
+    font-weight: 700;
+    width: 148px;
+    height: 22px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -20px;
+}
