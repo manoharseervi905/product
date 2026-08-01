@@ -191,4 +191,82 @@
 .product{
     margin: 15px;
 }
+.foot{
+    background-color: #643302;
+    height: 577px;
+    width: 1265px;
+    padding: 32px 60px;
+}
 
+footer{
+    margin-top: 20px;
+}
+/* panel 1 */
+.foot-panel1{
+    background-color: #37475a;
+    color: #ffffff;
+    height: 50px;
+    font-size: 0.85rem;
+    justify-content: center;
+    display: flex;
+
+    align-items: center;
+}
+/* panel2  */
+.foot-panel2{
+    background-color:#232f3e ;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+}
+ul a{
+    display: block;
+    color: #DDD;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 10px;
+}
+ul p{
+    font-size: 16px;
+    font-weight: 700;
+}
+ul{
+    margin-top: 20px;
+}
+/* panel 3  */
+
+.foot-panel3{
+    background-color: #232f3e;
+    height: 68px;
+    border-top: 0.5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-logo{
+   
+    background-image:url(amazon.png.png);
+    height: 50px;
+    background-size: cover;
+    width: 138px;
+}
+
+/* panel 4 */
+
+.foot-panel4{
+    background-color: #131a22;
+    height: 92px;
+    color: white;
+    text-align: center;
+    /* margin-top: 50px; */
+    /* padding: 15px; */
+
+}
+
+.pages{
+    padding: 25px;
+}
+.copyright{
+    padding-top: 5px;
+}
